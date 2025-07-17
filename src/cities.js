@@ -1,4 +1,4 @@
-[
+export const cities = [
   "Aberdeen",
   "Abilene",
   "Akron",
@@ -383,5 +383,5 @@
   "Yakima",
   "Yonkers",
   "York",
-  "Youngstown"
-]
+  "Youngstown",
+];
